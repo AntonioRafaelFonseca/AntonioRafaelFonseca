@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning c++ and  web design
+I'm focusing primarily on c++ right now.
 
 
 ## 🌐 Socials:
